@@ -18,7 +18,7 @@
    3:AI应用链接，任何人都可以使用
    https://lyraen-medical-sentiment-demo.hf.space
 
-总结:
+   4:总结
  深圳AI医疗助手（情感分析 Demo）
 
 > 基于预训练 Transformer 模型的情绪倾向分析演示系统  
@@ -44,3 +44,4 @@ python app.py
 模型为通用情感分析模型，非医疗专用，对中文支持有限
 实际医疗系统需在合规数据上微调专用分类模型
 已绕过 matplotlib 依赖冲突，确保在无 GUI 环境（如腾讯云、Hugging Face Spaces）稳定运行
+
