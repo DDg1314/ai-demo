@@ -13,3 +13,8 @@
 注意：模型为英文通用情感分析，非医疗诊断工具。
 <img width="2546" height="1352" alt="ScreenShot_2025-11-19_103849_543" src="https://github.com/user-attachments/assets/bc41d0e3-78c7-40c8-b086-59261c4551ea" />
 
+
+
+   3:AI应用链接，任何人都可以使用
+   https://lyraen-medical-sentiment-demo.hf.space
+
